@@ -1,0 +1,20 @@
+/*------------------------
+Add Scrollbar to Roam with CSS
+Author:: Erik Plachta
+Date:: 01/03/2021
+Source:: @RoamStack
+-------------------------*/
+
+/* Create a Scrollbar object */
+div::-webkit-scrollbar
+{
+	width: 5px !important; 
+	background-color:rgba(0,0,0,0.1) !important;
+  	-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.3) !important;
+}
+
+/* Set the color of the button bar itself */
+div::-webkit-scrollbar-thumb
+{
+	background-color: rgba(255,255,255,0.5) !important; 
+}
