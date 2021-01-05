@@ -1,0 +1,19 @@
+/*------------------------
+ | How to Stylize a Specific Tag with CSS
+ | Author:: Erik Plachta
+ | Date:: 01/03/2021
+ | Source:: @ErikPlachta
+ | -------------------------*/
+
+span.rm-page-ref[data-tag="Your_Tag_Here"] {
+    background: #000 !important;
+    color: #fff !important;
+    padding: 1px 20px;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+span.rm-page-ref[data-tag="Your_Tag_Here"]:before {
+    /* Add your own prefix here */
+    content: '👉 '
+}
