@@ -5,10 +5,10 @@
 
 This is a collection of my RoamResearch CSS and JavaScript.
 
+<!--
+
 <hr />
 
-
-<!--
 ### Version Release
 
 - V_XX.XX.XX
@@ -19,9 +19,9 @@ This is a collection of my RoamResearch CSS and JavaScript.
 
 -->
 
-<hr />
-
 <!--
+
+<hr />
 
 ## Example of `Repo_Name_Here` in action 🎬
 
