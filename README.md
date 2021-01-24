@@ -1,163 +1,21 @@
-# Welcome to My RoamResearch Repo
+# Welcome to My RoamResearch Repo 👋
 
+### Summary
 
-## About
+This repo is a collection CSS and JavaScript snippets that I found value in either personally or for others to use within their RoamResearch graph.
+> Here, you'll find a collection of my code along other developers __all clearly labled and noted__, in an effort to centralize quality resource in their simpliest form.
 
-This is a collection of my RoamResearch CSS and JavaScript.
+---
 
-<!--
+### About Me 👇
 
-<hr />
+Hello! My name is [Erik Plachta](www.erikplachta.com). I’m an IT professional and software engineer that is passionate about learning new things and building tools to solve complex problems. As with all complex issues, data is king. That's where [RoamResearch](www.roamresearch.com) comes into play.
 
-### Version Release
+**What is RoamResearch?**
+>> [Roam Research is a Personal Knowledge Management (PKM) tool and a modular IDE with bidirectional linking and all of these features are packed into an easy to use system that is beautifully designed to scale, with extremely flexible customization and very few limitations. You can directly integrate custom CSS and JavaScript uniquely, within reason, in a way that is simple yet powerful.](https://erikplachta.com/learning-roam-research/#post-1285:~:text=Roam%20Research%20is%20a%20Personal%20Knowledge,way%20that%20is%20simple%20yet%20powerful.) 
 
-- V_XX.XX.XX
-	- Summary
-	- Release Notes
-		- Feature Improvements
-		- Issues
-
--->
-
-<!--
-
-<hr />
-
-## Example of `Repo_Name_Here` in action 🎬
-
-1. Short Description
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
-
-[Link](url) and ![Image](src)
-
-2. Short Description
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
-[Link](url) and ![Image](src)
-
-
-3. Short Description
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
-
-[Link](url) and ![Image](src)
-
--->
-
-<hr />
-
-<!--
-
-## How to use `Repo_Name_Here` 🧠
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac. 
-
-[Link](url) and ![Image](src)
-1. **Short Description**
-
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac. ```
-
-2. **Short Description**
-
-3. **Short Description**
-
-4. **Short Description**
-
-5. **Short Description**
-
--->
-
-<!--
-
-<hr />
-
-
-## Feature Request and Suggestions 💡
-
-> To make a feature request or suggestion, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque massa metus, dignissim in leo dictum, finibus placerat eros. 
-
-1. X
-
-2. Y
-
--->
-
-<!--
-
-<hr />
-
-## Submitting a Bug 🐛
-
-> To submit a bug, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque massa metus, dignissim in leo dictum, finibus placerat eros. Vivamus ornare eros in quam finibus placerat. Sed sollicitudin condimentum interdum. Donec tempus consequat tempor.
-
--->
-
-<!--
-
-<hr />
-
-## Contributors 🤓
-
-- 👤 [Link](url) and ![Image](src)
-- 👤 [Link](url) and ![Image](src)
-- 👤 [Link](url) and ![Image](src)
-
--->
-
-<!--
-
-<hr />
-
-## Support the Project 🤝
-
-Are you using this project regularly and find it adding value to your life?
-
-If yes, please consider supporting the author by donating $5.
-
--->
-
-<!-- Lorem Ipsums
-30 words
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rhoncus, neque eu pharetra finibus, nisl lorem vulputate justo, bibendum tincidunt augue urna at enim. Integer eget massa nisl. Suspendisse ac.
-
-1 paragraph, 107 words
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque massa metus, dignissim in leo dictum, finibus placerat eros. Vivamus ornare eros in quam finibus placerat. Sed sollicitudin condimentum interdum. Donec tempus consequat tempor. Aliquam eget luctus elit. Nam sed turpis in ipsum sagittis sollicitudin. Aliquam ac tortor purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean nulla sapien, finibus quis laoreet et, dignissim sed dolor. Nunc posuere felis nec orci semper, scelerisque ultrices quam sollicitudin. Aliquam aliquet ex et sapien mollis egestas. Fusce sollicitudin felis feugiat, condimentum felis non, consequat neque. Cras est nibh, porttitor sed porttitor et, vestibulum vitae erat.
-
--->
-
-<!-- SYNTAX REFERENCE NOTES BELOW -->
-<!-- You can use the [editor on GitHub](https://github.com/ErikPlachta/repo-template-microsoft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
-
- 
-<!--
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ErikPlachta/repo-template-microsoft/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
--->
+If you want to reach me, you can contact me on Twitter [@ErikPlachta](https://twitter.com/ErikPlachta).
