@@ -4,6 +4,14 @@
 
 ---
 
+### Index
+
+## [CSS Index](https://github.com/ErikPlachta/RoamResearch_CSS-and-JS/tree/main/CSS)
+
+## [JS Index](https://github.com/ErikPlachta/RoamResearch_CSS-and-JS/tree/main/JS)
+
+---
+
 ### About Me 👇
 
 >Hello! My name is [Erik Plachta](www.erikplachta.com). I’m an IT professional and software engineer that is passionate about learning new things and building tools to solve complex problems. As with all complex issues, data is king. That's where [RoamResearch](www.roamresearch.com) comes into play.
