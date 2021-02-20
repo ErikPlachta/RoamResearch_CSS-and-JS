@@ -1,21 +1,21 @@
-/* Exploding ToDos Animation with JavaScript
-  
-  @Summary: This will animate an "Explosion" whenever you complete a TODO in Roam Research.
-  
-  @Setup:   Put this file in [[roam/js]] undeneath a {{[[roam/js]]}} block.  For Example...
+/* 
+  @Title:     Exploding ToDos Animation with JavaScript
+  @Filename:  TODO_Exploding.js
+  @Summary:   This will animate an "Explosion" whenever you complete a TODO in Roam Research.
+  @Setup:     Copy this JavaScript code into [[roam/js]] undeneath a {{[[roam/js]]}} block.  For Example...
     - {{[[roam/js]]}
       - Your Code Here
   
+  --- CONTRIBUTOR ---
+    @Author:    @ErikPlachta
+    @Updated:   02202021
+    @Source:    https://github.com/ErikPlachta/RoamResearch_CSS-and-JS/
 
   --- ORIGINAL AUTHOR ---
-  @Author:  @artpi
-  @Created:  02192021
-  
-  --- MODIFICATIONS ---
-  @Author:   @ErikPlachta
-  @Updated: 02202021
+    @Author:    @artpi
+    @Created:   02192021
+    @Source:    https://gist.github.com/artpi/1eed7ac11eb980d9f7837041d054ef3f
   ----
-  @Source:  https://gist.github.com/artpi/1eed7ac11eb980d9f7837041d054ef3f
   
 */
 
