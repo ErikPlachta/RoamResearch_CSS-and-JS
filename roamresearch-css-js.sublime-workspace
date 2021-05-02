@@ -1,0 +1,1229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Power",
+				"Powershellscript"
+			],
+			[
+				"results_",
+				"resultsWritten_counter"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-style\tproperty"
+			],
+			[
+				"col",
+				"col\t<col>"
+			],
+			[
+				"Control",
+				"ControlPanel"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"results",
+				"results"
+			],
+			[
+				"localNetwork",
+				"localNetwork_results"
+			],
+			[
+				"Header",
+				"Header_CRE_UpdatePrice"
+			],
+			[
+				"csv_header",
+				"csv_Header_Position_dict"
+			],
+			[
+				"each",
+				"eachColumn"
+			],
+			[
+				"Unit",
+				"Unit_Type"
+			],
+			[
+				"get",
+				"getDefaults"
+			],
+			[
+				"i",
+				"MacAddress_Identify"
+			],
+			[
+				"Network",
+				"NetworkManager"
+			],
+			[
+				"Get",
+				"getLocalNetwork"
+			],
+			[
+				"exit",
+				"exitCounter"
+			],
+			[
+				"doRe",
+				"doReapirThingy"
+			],
+			[
+				"log",
+				"Log_Holder_Dict"
+			],
+			[
+				"engage",
+				"engageStrategies"
+			],
+			[
+				"Gears",
+				"GearsJammed"
+			],
+			[
+				"folder",
+				"folder_Holder_String"
+			],
+			[
+				"buildpat",
+				"buildPath"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"file",
+				"file_string"
+			],
+			[
+				"module",
+				"moduleName"
+			],
+			[
+				"log_",
+				"Log_Holder_Dict"
+			],
+			[
+				"action",
+				"ActionHolder"
+			],
+			[
+				"Log",
+				"Log_Holder_Dict"
+			],
+			[
+				"pp",
+				"pprint\tfunction"
+			],
+			[
+				"gears",
+				"gears_spinning\tstatement"
+			],
+			[
+				"ru",
+				"running\tstatement"
+			],
+			[
+				"In",
+				"IntegrityManager\tmodule"
+			],
+			[
+				"s",
+				"startup\tfunction"
+			],
+			[
+				"err",
+				"err_holder\tstatement"
+			],
+			[
+				"connec",
+				"connectTest\tfunction"
+			],
+			[
+				"iden",
+				"identityDict\tstatement"
+			],
+			[
+				"load",
+				"loadModule"
+			],
+			[
+				"Module",
+				"Module_OBJ"
+			],
+			[
+				"integ",
+				"integrityCheck_INI"
+			],
+			[
+				"config",
+				"configparser"
+			],
+			[
+				"loade",
+				"loadedINI"
+			],
+			[
+				"conn",
+				"connectionAttempt"
+			],
+			[
+				"CORELog",
+				"CORELogSettings"
+			],
+			[
+				"CORELO",
+				"CORELogSettings"
+			],
+			[
+				"getPath",
+				"getPathFull"
+			],
+			[
+				"getPa",
+				"getPathFull"
+			],
+			[
+				"gt",
+				"getModuleName"
+			],
+			[
+				"provi",
+				"providedPath"
+			],
+			[
+				"in",
+				"IntegrityManager"
+			],
+			[
+				"Default",
+				"DefaultValues"
+			],
+			[
+				"test_",
+				"test_startupCheck_OLD"
+			],
+			[
+				"getDic",
+				"getDictionaryList"
+			],
+			[
+				"di",
+				"dictionaryName"
+			],
+			[
+				"section",
+				"sectionName"
+			],
+			[
+				"details",
+				"detailsVerified"
+			],
+			[
+				"modul",
+				"moduleVerified"
+			],
+			[
+				"INI",
+				"INI"
+			],
+			[
+				"confi",
+				"configFileDefaults"
+			],
+			[
+				"mod",
+				"moduleName"
+			],
+			[
+				"conf",
+				"configFile"
+			],
+			[
+				"full",
+				"fullPath"
+			],
+			[
+				"CORES",
+				"CORESettings"
+			],
+			[
+				"core",
+				"CORESettings"
+			],
+			[
+				"Inte",
+				"IntegrityManager"
+			],
+			[
+				"de",
+				"defaults"
+			],
+			[
+				"defau",
+				"DefaultValues"
+			],
+			[
+				"status",
+				"statusCheck"
+			],
+			[
+				"summary",
+				"summaryCheck"
+			],
+			[
+				"local",
+				"localNetwork"
+			],
+			[
+				"IPV",
+				"ipv4"
+			],
+			[
+				"ip",
+				"IPv4Address"
+			],
+			[
+				"defaul",
+				"DefaultIPGateway"
+			],
+			[
+				"IP",
+				"DefaultIPGateway"
+			],
+			[
+				"OSA",
+				"OSArchitecture"
+			],
+			[
+				"cre",
+				"credentials"
+			],
+			[
+				"the",
+				"theQueue"
+			],
+			[
+				"default",
+				"defaultSettings"
+			],
+			[
+				"path",
+				"PATHFull"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"white",
+				"whiteList_var"
+			],
+			[
+				"le",
+				"getLevel3"
+			],
+			[
+				"enabl",
+				"enableTestingMode"
+			],
+			[
+				"start",
+				"Start"
+			],
+			[
+				"csv",
+				"CSVread"
+			],
+			[
+				"select",
+				"selectCSV"
+			],
+			[
+				"create",
+				"createTK"
+			],
+			[
+				"add",
+				"add_cascade"
+			],
+			[
+				"check",
+				"checkDefined"
+			],
+			[
+				"upc",
+				"upc_number"
+			],
+			[
+				"defa",
+				"defaultItemNum2"
+			],
+			[
+				"import",
+				"importFile"
+			],
+			[
+				"CSV",
+				"CSVmanager"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"open",
+				"openFileCSV"
+			],
+			[
+				"special",
+				"specialCharacters"
+			],
+			[
+				"validate",
+				"validateHeader"
+			],
+			[
+				"speci",
+				"specialCharacters"
+			],
+			[
+				"main",
+				"mainNB"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"logmain",
+				"logMAIN"
+			],
+			[
+				"colu",
+				"columnspan"
+			],
+			[
+				"database",
+				"pageDatabase"
+			],
+			[
+				"data",
+				"pageDatabase"
+			],
+			[
+				"depart",
+				"DepartmentBTN"
+			],
+			[
+				"customer",
+				"CustomerBTN"
+			],
+			[
+				"help",
+				"helpMenu"
+			],
+			[
+				"copy",
+				"copyFunction"
+			],
+			[
+				"input",
+				"inputTest"
+			],
+			[
+				"middle",
+				"middleClick"
+			],
+			[
+				"midd",
+				"middleClick"
+			],
+			[
+				"tk",
+				"Tk"
+			],
+			[
+				"inp",
+				"inputValue"
+			],
+			[
+				"len",
+				"lengthTest"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"te",
+				"text-rendering"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"toDO",
+				"todoText"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "JS/Interface/bulletpath.js",
+			"settings":
+			{
+				"buffer_size": 8432,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "/*"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 568.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"preview",
+				"Markdown HTML Preview"
+			],
+			[
+				"markdowntoc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"htmlpre",
+				"Markdown HTML Preview"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"syntax",
+				"Set Syntax: Markdown"
+			],
+			[
+				"preiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdwon",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 1070.0
+	},
+	"console":
+	{
+		"height": 266.0,
+		"history":
+		[
+			"cls",
+			"python main0.4.2.py",
+			"main0.4.2.py",
+			"cls",
+			"ls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Repo/RoamResearch_CSS-and-JS",
+		"/C/Repo/RoamResearch_CSS-and-JS/JS",
+		"/C/Repo/RoamResearch_CSS-and-JS/JS/Blocks",
+		"/C/Repo/RoamResearch_CSS-and-JS/JS/Interface"
+	],
+	"file_history":
+	[
+		"/C/Repo/RoamResearch_CSS-and-JS/JS/Interface/_ARCHIVE/BulletPath_02182021.js",
+		"/C/Repo/TEMPLATE - Basic EXE w Powershell and Logging/CODE/fix429.py",
+		"/C/Repo/TEMPLATE - Basic EXE w Powershell and Logging/CODE/exename.spec",
+		"/C/Repo/TEMPLATE - Basic EXE w Powershell and Logging/CODE/version.py",
+		"/C/Repo/CAP-ErrorCodeFix/CODE/fix372.py",
+		"/C/Repo/CORE/CORE_2.1.7/Gears/Log/Settings/main.py",
+		"/C/Repo/CORE/CORE_2.1.7/Gears/CORE/Settings/Core_Settings.py",
+		"/C/Repo/CORE/CORE_2.1.7/Strategy/S_reporting.py",
+		"/C/Repo/posnation.snapshot/CODE/snapshot.spec",
+		"/C/Repo/POSNImageManager/00.02.530/CODE/Main_Settings.py",
+		"/C/Repo/POSNImageManager/00.02.520/CODE/Main.py",
+		"/C/Repo/POSNImageManager/00.02.520/CODE/Main.spec",
+		"/C/Repo/POSNImageManager/00.02.520/CODE/WindowsManager.py",
+		"/C/Repo/POSNImageManager/00.02.520/RUN/ImageManagerRUN.vbs",
+		"/C/Repo/POSNImageManager/00.02.520/RUN/ImageManager_RUN.bat",
+		"/C/Repo/POSNImageManager/00.02.520/CODE/version.py",
+		"/C/Repo/POSNImageManager/00.02.501/CODE/Main.py",
+		"/C/Repo/POSNImageManager/00.02.501/CODE/Main.spec",
+		"/C/Repo/POSNImageManager/00.02.501/CODE/WindowsManager.spec",
+		"/C/Repo/POSNImageManager/0.2.01/src/web/main.css",
+		"/C/Repo/POSNImageManager/00.02.414_PYTHON/CODE/Main.py",
+		"/C/Repo/POSNImageManager/00.02.414_PYTHON/CODE/version.py",
+		"/C/Repo/POSNImageManager/0.2.01/main.py",
+		"/C/Repo/POSNImageManager/0.2.01/src/Settings/Settings_HTML.py",
+		"/C/Repo/POSNImageManager/00.02.414_PYTHON/CODE/WindowsManager.py",
+		"/C/POSNation/BIN/Logs/ImageManager.LOG",
+		"/C/Repo/POSNImageManager/00.02.414_PYTHON/CODE/_ARCHIVE/WindowsManager_00.02.415.py",
+		"/G/.shortcut-targets-by-id/1i2bn8zoP7weBTlj4TNzrgd2qTD14h14J/2 AREAS/POSN Image Manager/CODE/version.py",
+		"/C/Repo/POSNImageManager/0.2.01/src/web/index.html",
+		"/C/Repo/POSNImageManager/0.2.01/Bin/Examples/JQUERY/JQUERY-Resources.html",
+		"/C/Repo/POSNImageManager/0.2.01/_ARCHIVE/main_0.2.02.py",
+		"/C/Repo/POSNImageManager/0.1.0/main.py",
+		"/C/Repo/POSNImageManager/Tech Tools - 0.0.1/Techtools.spec",
+		"/C/Repo/POSNImageManager/Tech Tools - 0.0.1/web/bootstrap.css",
+		"/C/Repo/POSNImageManager/0.1.0/web/index.html",
+		"/C/Repo/POSNImageManager/Tech Tools - 0.0.1/web/TechTools.html",
+		"/C/Repo/POSNImageManager/Tech Tools - 0.0.1/TechTools.py",
+		"/C/Repo/POSNImageManager/0.1.0/Techtools.spec",
+		"/C/Repo/POSNImageManager/0.1.0/TechTools.py",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/WEB/BOOTSTRAP/Bootstrap Basics/bootStrapBasics.html",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/WEB/BOOTSTRAP/Bootstrap Basics/gallery.html",
+		"/C/Repo/POSNImageManager/0.1.0/web/bootstrap.css",
+		"/C/Repo/POSNImageManager/0.1.0/web/TechTools.html",
+		"/C/Repo/POSNImageManager/0.1.0/Eel_Make Exe.bat",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/50 WEB/BOOTSTRAP/Bootstrap Basics/bootStrapBasics.html",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/50 WEB/BOOTSTRAP/Bootstrap Basics/bootstrap.css",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/WEB/BOOTSTRAP/Bootstrap Basics/grid.html",
+		"/C/Repo/POSNImageManager/0.1.0/web/TechTools.css",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/WEB/BOOTSTRAP/Bootstrap Basics/bootstrap.css",
+		"/C/Repo/POSNImageManager/Webpage Example/angular-material-basic-app/src/style.css",
+		"/C/Repo/POSNImageManager/0.1.0/src/web/TechTools.html",
+		"/C/Repo/POSNImageManager/Webpage Example/angular-material-basic-app/src/index.html",
+		"/C/Repo/POSNImageManager/0.1.0/src/SpeedTest.py",
+		"/C/Users/plach/AppData/Local/Programs/Python/Python39/Lib/site-packages/speedtest.py",
+		"/C/Repo/POSNImageManager/Webpage Example/Basic Menu/index.html",
+		"/C/Users/plach/AppData/Local/Temp/tmpqzbq4_.html",
+		"/C/Users/plach/AppData/Local/Temp/tmpf_zl0h.html",
+		"/C/Repo/POSNImageManager/0.1.0/main.spec",
+		"/C/Repo/POSNImageManager/0.1.0/build/main/base_library.zip",
+		"/C/Repo/POSNImageManager/0.1.0/dist/main/win32com/shell/shell.pyd",
+		"/C/Repo/POSNImageManager/0.1.0/mainconsole.spec",
+		"/G/.shortcut-targets-by-id/16a4FwfP1To_aJvnUVb36fHDORJLAB12r/3 RESOURCES/PYTHON/compiler.py",
+		"/C/Repo/CORE/CORE_2.1.7/Main.spec",
+		"/C/Repo/POSNImageManager/posnimagemanager.spec",
+		"/C/Repo/POSNImageManager/0.1.0/oconsole.spec",
+		"/C/Repo/PROGRAMMING-Tools-Templates-Examples/2 PYTHON/GUI/EEL/Eel_Template_by TT/main.spec",
+		"/C/Repo/POSNImageManager/Eel_Make Exe.bat",
+		"/C/Repo/POSNImageManager/0.1.0/src/bin/Help/Variables.py",
+		"/C/Repo/POSNImageManager/0.1.0/src/web/posnimagemanager.html",
+		"/C/Repo/POSNImageManager/src/bin/Gears/Settings/Commands_Settings.py",
+		"/C/Repo/POSNImageManager/src/bin/Help/Variables.py",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/Examples/Blank Example/web/example.html",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/Examples/Blank Example/main.py",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/Examples/Blank Example/main.html",
+		"/C/Repo/POSN-KBA-Builder/Main.py",
+		"/C/Users/plach/AppData/Local/Programs/Python/Python39/lib/site-packages/gevent/_socketcommon.py",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/Examples/HelloWorld/hello.py",
+		"/C/Repo/POSN-KBA-Builder/src/Main.py",
+		"/C/Repo/POSN-KBA-Builder/src/GUI/main.html",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/Examples/HelloWorld.py",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/Examples/HelloWorld/Web/hello.html",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/01272021/src/Main.py",
+		"/C/Repo/POSN-KBA-Builder/_ARCHIVE/02042021/src/Main.py",
+		"/C/Users/plach/AppData/Local/Temp/Temp1_POSN-KBA-Builder.zip/src/Main.py",
+		"/C/Repo/POSN-KBA-Builder/src/GUI/html/textareaSkeleton.html",
+		"/C/Repo/POSN-KBA-Builder/src/GUI/html/newStep.html",
+		"/C/Repo/POSN-KBA-Builder/src/GUI/html/articleTableBodyOdd.html",
+		"/C/Repo/POSN-KBA-Builder/src/GUI/html/articleTableBodyEven.html",
+		"/C/Repo/CORE/CORE_2.1.7/Gears/ID/ID.py",
+		"/C/Repo/CORE/CORE_2.1.7/Gears/GUI/GUI.py",
+		"/C/Repo/CORE/CORE_2.1.7/Gears/FileManagement/FileManagement.py",
+		"/C/Repo/CORE/CORE_2.1.7/Main.py",
+		"/C/Repo/CORE/CORE_2.1.6/Gears/ID/Network/_ARCHIVE/MacAddress_Identify.py",
+		"/C/Repo/CORE/CORE_2.1.6/Gears/ID/ID.py",
+		"/C/Repo/CORE/CORE_2.1.6/Gears/ID/Network/NetworkManager.py",
+		"/C/Repo/CORE/CORE_2.1.6/Main.py",
+		"/C/Repo/CORE/CORE_2.1.6/Strategy/S_id.py",
+		"/C/Repo/CORE/CORE_2.1.6/Gears/ID/OS/Windows_OS.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/ID/OS/Windows_Network.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/ID/Network/_ARCHIVE/scapy.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/ID/OS/_ARCHIVE/GetNetwork_IP_Mac.py",
+		"/C/Users/C0R3.0/Downloads/NetworkScanner.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/Log/Log.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/ID/OS/Windows_Firewall.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/ID/OS/WindowsManager.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/ID/OS/Windows_PowerSave.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/GUI.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/IMG_Base64.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/Settings/GUI_Settings.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/_Assets/Base64_people.py",
+		"/C/Users/C0R3.0/Downloads/pyforms.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/UI/Tools/SwappingLayout.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/UI/FileManager.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/GUI/UI/Tools/floatingAnimations.py",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/FileManagement/Settings/HamptonPonds/Vendors/EDI.py",
+		"/G/My Drive/2 AREAS/NOTES_All Projects/PHONE_NOTES/11122020.md",
+		"/G/My Drive/2 AREAS/NOTES_All Projects/PHONE_NOTES/_Markdown Cheatsheet",
+		"/C/GIT-REPO/CORE/CORE_2.1.6/Gears/FileManagement/FileManagement.py",
+		"/G/My Drive/2 AREAS/CORE/CODE/CORE_2.1.6/Gears/FileManagement/BIN/HamptonPonds/RedBones_Export from CSV of raw export converted results_11142020.LOG",
+		"/C/CORE/BIN/Resources/TestFiles/HP_EDI.csv",
+		"/C/CORE/BIN/Resources/TestFiles/RB1.csv",
+		"/C/CORE/BIN/Resources/TestFiles/Test.csv",
+		"/C/Users/C0R3.0/Downloads/Extracted Values.csv",
+		"/C/Users/C0R3.0/Downloads/projectLog.html",
+		"/G/My Drive/2 AREAS/CORE/CODE/CORE_2.1.6/Main.py",
+		"/G/My Drive/2 AREAS/CORE/CODE/CORE_2.1.6/Strategy/S_filemanagement.py",
+		"/C/HP_EDI.csv",
+		"/G/My Drive/2 AREAS/CORE/CODE/CORE_2.1.6/Gears/CORE/CORE.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 355.0,
+		"where_history":
+		[
+			"C:\\GIT-REPO\\CORE\\CORE_2.1.6",
+			"G:\\.shortcut-targets-by-id\\1i2bn8zoP7weBTlj4TNzrgd2qTD14h14J\\2 AREAS\\CORE\\CODE\\CORE_2.1.6\\",
+			"G:\\.shortcut-targets-by-id\\1i2bn8zoP7weBTlj4TNzrgd2qTD14h14J\\2 AREAS\\CORE\\CODE\\CORE_2.1.5\\",
+			"G:\\My Drive\\1 PROJECTS\\CORE\\CODE\\CORE_2.1.5",
+			"G:\\My Drive\\1 PROJECTS\\CORE\\CODE\\CORE_2.1.4",
+			"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0\\BIN\\CORE",
+			"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0,C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0,C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0\\BIN\\CORE",
+			"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0,C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0",
+			"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_2.0.0",
+			"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\",
+			"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\GIT\\CORE\\CORE_1.1.1",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"use strict",
+			"Arrive",
+			"arrive",
+			"fix372_settings",
+			"fix429",
+			"fix_429",
+			"$path_CPOSNATIONBIN_CAPBIN",
+			"$PATH_CProgramFilesCAP",
+			"$PATH_CSQLExpress64",
+			"$dsipdcx",
+			"$dsiemvx",
+			"$backwordsc",
+			"$URL_backwordsc",
+			"$URL_dsipdcx",
+			"$URL_dsiemvx",
+			"URL_dsiemvx",
+			" $URL_backwordsc",
+			"URL",
+			"c\\\\sql",
+			"#",
+			"results",
+			"372",
+			"backupPath",
+			"SNAPSHOT",
+			"\\",
+			"get_SnapshotSettings",
+			"date",
+			"createLog",
+			"get_reg(",
+			"get_reg(name)",
+			"startBackup",
+			"grid",
+			"#",
+			"powershell.exe",
+			"REGI",
+			"error",
+			"path_thisSnapshotLOGS_CAP",
+			"program files\\\\cap",
+			"URL",
+			"Disable Windows Hibernation",
+			"disable windows hiber",
+			"imageManager.exe",
+			"internet",
+			"permissons",
+			"https://posnation.s3.amazonaws.com/Tools08POS0Natio",
+			"version",
+			"rename",
+			"version",
+			"power save",
+			"disablePowerManagement_USB",
+			"disable power save",
+			"remove",
+			"checkImageManagerUpdates(subprocess_StartupInfo)",
+			"414",
+			"disablePowerSave_",
+			"verifyServices(subprocess_StartupInfo",
+			"buildTileDataLayer(",
+			"createLogFolders",
+			"$disablePowerSave",
+			"openFirewall_SQL(subprocess_StartupInfo",
+			"firewall_ports",
+			"return code",
+			"else",
+			"else if",
+			"Folder C:\\\\POSNation\\\\BIN\\\\Logs already exists.",
+			"Folder C:\\\\POSNation\\\\BIN\\\\Logs already exists",
+			"C:\\\\POSNation\\\\BIN\\\\Logs already exists.\\n'",
+			"Folder C:\\\\POSNation\\\\BIN\\\\Logs already exists.\\n',",
+			"already exists.",
+			"\\n",
+			"already",
+			"folder ",
+			"already exists.",
+			"load_DefaultSettings",
+			"BTN_",
+			"BTN",
+			"LGD_",
+			"function",
+			"checkbox_darkmode",
+			"dark-mode",
+			"checkbox_darkmode",
+			"button_label_darkmode_text",
+			"input_text_darkmode_status",
+			"button_label_darkmode_enabledisable",
+			"dark-mode_b",
+			"settings",
+			"background_ToggleDarkMode",
+			"rgb(97, 103, 110)",
+			"216, 218, 219",
+			"rgb(30, 33, 36)",
+			"219",
+			"label",
+			"rgb(30, 33, 36)",
+			"rgb(47, 52, 56)",
+			"rgb(55, 61, 67)rgb(55, 61, 67)",
+			"Input_Types_NameExample",
+			"FORM_",
+			"Input_Attributes_NameExample",
+			"Input_Attributes_NameDescription",
+			"Input_",
+			"text_goes_here",
+			"text_from_form",
+			"dropdown",
+			"span",
+			"dropdown",
+			"href",
+			"Dropdown",
+			"dropdown",
+			"container",
+			"button-home-2",
+			"row-",
+			"div",
+			"col",
+			"</tr>",
+			"<tr>",
+			"</td>",
+			"<TD>",
+			"td",
+			"image",
+			"os.",
+			"Popen",
+			"subprocess",
+			"'web'",
+			"'web\"",
+			"web",
+			"37",
+			"add",
+			"mouse"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"main_settings",
+			"do_TASKHERE",
+			"'c:\\\\POSNation\\\\BIN\\\\CAP\\\\Bin'",
+			"'c:\\\\program files\\\\cap'",
+			"'c:\\\\SQLExpress64'",
+			"'c:\\\\program files\\\\cap\\\\dsipdcx.ocx'",
+			"'c:\\\\program files\\\\cap\\\\disemvx.ocx'",
+			"'C:\\\\SQLExpress64\\\\SQLServer2005_BC_x64.msi'",
+			"'https://posnation.s3.amazonaws.com/Tools%20%28POS%20Nation%29/CAP_ErrorFix/Fix429/SQLServer2005_BC_x64.msi'",
+			"'https://posnation.s3.amazonaws.com/Tools%20%28POS%20Nation%29/CAP_ErrorFix/Fix429/dsipdcx.ocx'",
+			"'https://posnation.s3.amazonaws.com/Tools%20%28POS%20Nation%29/CAP_ErrorFix/Fix429/dsiEMVX.ocx'",
+			"429",
+			"fix372",
+			"\\\\",
+			"TCPIP",
+			"permissions",
+			"501",
+			"disablePowerManagement_",
+			"FORMS_Input_Types_NameExample",
+			"FORMS_",
+			"FORMS_Input_Attributes_NameExample",
+			"FORMS_Input_Attributes_NameDescription",
+			"FORM_Input_",
+			"text_from_input",
+			"button-home-1",
+			"",
+			"Header_CRE_Requested_Columns",
+			"csv_Rows_unique",
+			"csv_Rows_JunkRows_dict",
+			"csv_Rows_DuplicateKey_dict",
+			"csv_Rows_clean",
+			"keyColumn",
+			"fileExists",
+			"private_verifyFileWithPath",
+			"",
+			"fileWithPath",
+			"Reporting.py",
+			"report_template.",
+			"P_",
+			"public_get_RefreshRate",
+			"public_set_RefreshRate",
+			"Reporting_IntegrityManager_Settings",
+			"Reporting_Log",
+			"Reporting_IntegrityManager",
+			"Reporting_Log",
+			"Reporting_TemplateManager",
+			"Reporting_DatabaseManager",
+			"Reporting",
+			"Report_Log",
+			"Report_TemplateManager",
+			"Report_DatabaseManager",
+			"Report_IntegrityManager",
+			"CLOUD",
+			"Settings.Values",
+			"threadManager",
+			"checkForThreadRunning",
+			"threadedTaskRunning",
+			"ID_Settings",
+			"Values[\"MaxRefreshRate\"]",
+			"Values[\"RefreshRate\"]",
+			"Values[\"MaxRefreshRate\"]",
+			"Values[\"RefreshRate\"]",
+			"spinGears",
+			"test_IntegrityManager",
+			"files_Holder_Dict",
+			"file_Holder_String",
+			"path_Holder",
+			"paths_Holder_Dict_or_List",
+			"paths_dict",
+			"log_Holder_String",
+			"log_Holder_List",
+			"log_holder_list",
+			"RefreshRate",
+			"MaxRefreshRate",
+			"CORE",
+			"Log_Holder_Dict",
+			"",
+			"Log_Holder_Dict",
+			"GearsSpinning",
+			"engage()",
+			"spin(",
+			"spin()",
+			"Core.",
+			"main.py",
+			"",
+			"CRE_Settings",
+			"CAP_Settings",
+			"CAP_ReportIndex",
+			"CRE_ReportIndex",
+			"connectToDatabase()",
+			"100%",
+			"<hr>",
+			"<br>",
+			" <hr>",
+			" ",
+			"",
+			"main.py"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "JS/Interface/bulletpath.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								8432
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 121.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 274.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "roamresearch-css-js.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"notebook",
+				"notebook.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\C0R3.0\\Google Drive\\PROJECTS\\Python\\CoreProject.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

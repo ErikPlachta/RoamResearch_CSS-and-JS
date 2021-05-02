@@ -3,8 +3,6 @@
  * for the original concept which was part of their RoamGames submission
  * and can be found at: https://www.figma.com/file/5shwLdUCHxSaPNEO7pazbe/
  *
- *
- * Edits done by - @ErikPlachta 02/18/2021
  */
 
 /* ======= OPTIONS ======== */
@@ -12,7 +10,7 @@
 
 // BULLET
 let scale = 2;
-let bulletColor = '#000000';
+let bulletColor = '#FF0099';
 
 // LINES
 let showLines = true;
@@ -104,7 +102,8 @@ document.arrive('textarea.rm-block-input', function(el) {
     border-right: none;
     border-top: none;
     border-bottom-left-radius: ${borderRadius}px;
-    z-index: 999;
+    pointer-events: none;
+    z-index: 11 !important;
 }
 `
         }
