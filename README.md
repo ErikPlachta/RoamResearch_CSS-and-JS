@@ -1,4 +1,10 @@
-### Welcome to My RoamResearch Repo 👋
+# Welcome to My RoamResearch Repo 👋
+
+> This is a collection of Roam Research customizaations that either I or others have created. 
+
+- Content I created is stored in this repo. ( *Some of these may be a collab where I've taken anothers and updated it, so credit is given within code*)
+- Content created by others is linked in this README
+
 
 **My goal with this repo is two fold:**
 
